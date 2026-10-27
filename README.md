@@ -9,7 +9,6 @@
 ## 👤 Datos personales
 
 - **Nombre:** Franco Ontivero
-- **Edad:** 36
 - **Ciudad:** La Rioja, Argentina
 - **Formación:** Tecnicatura en Programación (UTN, FR La Rioja) · Licenciatura en Administración (UNLaR)
 
@@ -27,12 +26,13 @@ Hoy me dedico de lleno al desarrollo: diseño e implemento **sistemas de gestió
 
 ## 🚀 Proyectos destacados
 
-- **Eiren:** gestión integral para un estudio de danza y música, con alumnos, clases, asistencia, caja, liquidación de profesores y chatbot de WhatsApp.
+- **Eiren:** gestión integral para un estudio creativo, con alumnos, clases, asistencia, caja, liquidación de profesores y chatbot de WhatsApp.
 - **Deco.Soft:** sistema para una tapicería, con insumos, trabajos, cotizaciones, caja y calendario de entregas.
 - **Carmina Burana:** reservas y pedidos en tiempo real para una cervecería, con acceso por roles.
 - **Cesario:** sistema gastronómico con punto de venta, caja, catálogo de productos y fidelización de clientes.
 - **Sistema para concesionarias:** gestión de vehículos y ventas, comercializado a concesionarias de autos.
-
+- **LM Ploteos:** gestión de ventas, comercializacion, E-comerce, Bot Whatsapp, campañas publicitarias.
+- **Tienda Onti:** E-comerce 3d en primera persona, Shopping interactivo donde alojo productos y servicios destacados de todos mis clientes para su mayor comercializacion.
 ---
 
 ## 🛠️ Stack que uso
